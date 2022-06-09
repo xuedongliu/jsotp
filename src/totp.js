@@ -3,8 +3,8 @@
  *  @author   : Gin (gin.lance.inside@hotmail.com)
  */
 
-import { OTP } from './otp';
-import { Util } from './util';
+import { OTP } from './otp.js';
+import { Util } from './util.js';
 
 export class TOTP extends OTP {
   /* ＊
